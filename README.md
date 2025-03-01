@@ -10,15 +10,15 @@ This is a simple Image Processing Application built using Python, OpenCV, and Tk
 
 ✅ Apply image processing filters:
 
-Grayscale
+1)Grayscale
 
-Blur
+2)Blur
 
-Edge Detection
+3)Edge Detection
 
-Sharpen
+4)Sharpen
 
-Pencil Sketch
+5)Pencil Sketch
 
 ✅ Resize the image by entering width and height
 
@@ -62,7 +62,7 @@ NumPy - Image matrix operations
 
 Pillow (PIL) - Image display and conversion
 
-Future Enhancements
+**Future Enhancements**
 
 🚀 Add more filters (Sepia, Cartoon, Noise Reduction)
 
@@ -70,10 +70,10 @@ Future Enhancements
 
 🚀 Improve UI with a modern design
 
-Author
+**Author**
 
 💡 Developed by: Sumalatha Gaddipati 📧 Contact: sumagaddipati@gmail.com
 
-License
+**License**
 
 This project is open-source and available under the MIT License.
